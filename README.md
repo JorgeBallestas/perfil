@@ -1,6 +1,7 @@
 # ¡Hola! Soy Jorge Ballestas
 
 Soy un apasionado desarrollador junior colombiano, me encanta crear soluciones innovadoras y eficientes, y siempre estoy buscando aprender y mejorar mis habilidades.
+
 ![Foto de perfil](perfil.jpg)
 - Nací en Santa Ana, Magdalena, Colombia  
 - Vivo en Fonseca, La Guajira  
