@@ -1,13 +1,12 @@
 # ¡Hola! Soy Jorge Ballestas
 
-Soy un apasionado desarrollador junior colombiano, encanta crear soluciones innovadoras y eficientes, y siempre estoy buscando aprender y mejorar mis habilidades.
+Soy un apasionado desarrollador junior colombiano, me encanta crear soluciones innovadoras y eficientes, y siempre estoy buscando aprender y mejorar mis habilidades.
 
 ## Habilidades
 
 - **Lenguajes de programación:** [Python.]
-- **Bases de datos:** [MySQL, PostgreSQL,etc.]
-- **Herramientas:** [Git, Github, etc.]
-- **Otros:** [API REST, pruebas unitarias, etc.]
+- **Bases de datos:** [MySQL, MySgL Workbench.]
+- **Herramientas:** [Git, Github.]
 
 ## Estadísticas de GitHub
 
@@ -18,6 +17,6 @@ Soy un apasionado desarrollador junior colombiano, encanta crear soluciones inno
 - **LinkedIn:** [(https://github.com/JorgeBallestas]
 - **Correo electrónico:** [ballestasjorge66@gmail.com]
 ## Autor 
-Jorge Ballestas 
+-Jorge Ballestas 
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o deseas colaborar en un proyecto, no dudes en contactarme.
