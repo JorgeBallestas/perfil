@@ -17,5 +17,7 @@ Soy un apasionado desarrollador junior colombiano, encanta crear soluciones inno
 
 - **LinkedIn:** [(https://github.com/JorgeBallestas]
 - **Correo electrónico:** [ballestasjorge66@gmail.com]
+## Autor 
+Jorge Ballestas 
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o deseas colaborar en un proyecto, no dudes en contactarme.
